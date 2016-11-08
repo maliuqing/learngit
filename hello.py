@@ -1,1 +1,3 @@
-hello to myself!
+#! /usr/bin/env
+print('hello, world!')
+
